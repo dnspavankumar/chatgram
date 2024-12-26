@@ -6,7 +6,7 @@
         "use": "@vercel/next"
       },
       {
-        "src": "server/index.js",
+        "src": "server/index.ts",
         "use": "@vercel/node"
       }
     ],
